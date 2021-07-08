@@ -9,10 +9,12 @@ h1{
 .oranger-color{
     color: coral;
 }
-section{
+
+.flexible-container{
     display:flex ;
     margin-bottom: 150px;
 }
+
 .half-width{
     width: 50%;
     padding-left: 5%;
